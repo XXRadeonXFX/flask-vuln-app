@@ -1,6 +1,14 @@
 # Flask Vulnerable App 🚨
 **[Latest Data of Vulnerabilities — CVE.org](https://www.cve.org/)**
 
+```
+#website to Practice
+https://bartman.ai/
+
+#Coupon Code:
+DOCKERSEC
+```
+
 This is a deliberately vulnerable Flask web application created for security training, awareness, and testing security tools and techniques. **Do not deploy this application in a production environment.**
 
 ---
