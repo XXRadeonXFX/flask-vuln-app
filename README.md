@@ -41,6 +41,8 @@ Trivy was used to scan the container image for known vulnerabilities.
 | CRITICAL     | 2     |
 | HIGH         | 7     |
 
+![trivy_image_dockerimagename.png](Screenshots/trivy_image_dockerimagename.png)
+
 #### Notable CVEs:
 - **CVE-2025-6965**: SQLite Integer Truncation [🔗](https://avd.aquasec.com/nvd/cve-2025-6965)
 - **CVE-2023-45853**: zlib heap-based buffer overflow [🔗](https://avd.aquasec.com/nvd/cve-2023-45853)
