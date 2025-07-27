@@ -46,8 +46,8 @@ Trivy was used to scan the container image for known vulnerabilities.
 ### 🐧 OS-Level Vulnerabilities (Debian 12.11)
 | Severity     | Count |
 |--------------|-------|
-| CRITICAL     | 1     |
-| HIGH         | 0     |
+| CRITICAL     | 2     |
+| HIGH         | 7     |
 
 ![trivy_image_dockerimagename.png](Screenshots/trivy_image_dockerimagename.png)
 
